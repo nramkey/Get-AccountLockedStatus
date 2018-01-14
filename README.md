@@ -1,1 +1,1 @@
-Get-AccountLockedStatus.ps1 returns the account locked out event logs for specified user
+Get-AccountLockedStatus.ps1 Get-AccountLocked-Status.ps1 returns event logs of specified EventId and Users from specified Log File. 
